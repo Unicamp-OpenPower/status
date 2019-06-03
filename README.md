@@ -2,6 +2,8 @@ Project | Status
 ------------ | -------------
 Bazel Build| <a href="https://travis-ci.org/Unicamp-OpenPower/bazel-build"><img src="https://travis-ci.org/Unicamp-OpenPower/bazel-build.png"></a>
 Bazel Release | <a href="https://travis-ci.org/Unicamp-OpenPower/bazel-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/bazel-releases.png"></a>
+Containerd Build| <a href="https://travis-ci.org/Unicamp-OpenPower/containerd-build"><img src="https://travis-ci.org/Unicamp-OpenPower/containerd-build.png"></a>
+Containerd Release| <a href="https://travis-ci.org/Unicamp-OpenPower/containerd-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/containerd-releases.png"></a>
 Docker CE Build | <a href="https://travis-ci.org/Unicamp-OpenPower/docker-ce-build"><img src="https://travis-ci.org/Unicamp-OpenPower/docker-ce-build.png"></a>
 Docker CE Release | <a href="https://travis-ci.org/Unicamp-OpenPower/docker-ce-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/docker-ce-releases.png"></a>
 Glide Build | <a href="https://travis-ci.org/Unicamp-OpenPower/glide-build"><img src="https://travis-ci.org/Unicamp-OpenPower/glide-build.png"></a>
