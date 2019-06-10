@@ -6,6 +6,8 @@ Containerd Build| <a href="https://travis-ci.org/Unicamp-OpenPower/containerd-bu
 Containerd Release| <a href="https://travis-ci.org/Unicamp-OpenPower/containerd-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/containerd-releases.png"></a>
 Docker CE Build | <a href="https://travis-ci.org/Unicamp-OpenPower/docker-ce-build"><img src="https://travis-ci.org/Unicamp-OpenPower/docker-ce-build.png"></a>
 Docker CE Release | <a href="https://travis-ci.org/Unicamp-OpenPower/docker-ce-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/docker-ce-releases.png"></a>
+Docker Credential Helpers Build | <a href="https://travis-ci.org/Unicamp-OpenPower/docker-credential-helpers-build"><img src="https://travis-ci.org/Unicamp-OpenPower/docker-credential-helpers-build.png"></a>
+Docker Credential Helpers Release | Available soon
 Glide Build | <a href="https://travis-ci.org/Unicamp-OpenPower/glide-build"><img src="https://travis-ci.org/Unicamp-OpenPower/glide-build.png"></a>
 Glide Release | <a href="https://travis-ci.org/Unicamp-OpenPower/glide-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/glide-releases.png"></a>
 Grafana Build | <a href="https://travis-ci.org/Unicamp-OpenPower/grafana-build"><img src="https://travis-ci.org/Unicamp-OpenPower/grafana-build.png"></a>
