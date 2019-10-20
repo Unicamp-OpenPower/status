@@ -23,4 +23,4 @@ Minio-MC Release | <a href="https://travis-ci.org/Unicamp-OpenPower/minio-mc-rel
 Restic Build | <a href="https://travis-ci.org/Unicamp-OpenPower/restic-build"><img src="https://travis-ci.org/Unicamp-OpenPower/restic-build.png"></a>
 Restic Release | <a href="https://travis-ci.org/Unicamp-OpenPower/restic-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/restic-releases.png"></a>
 Terraform Build | <a href="https://travis-ci.org/Unicamp-OpenPower/terraform-build"><img src="https://travis-ci.org/Unicamp-OpenPower/terraform-build.png"></a>
-Terraform Release | <a href="https://travis-ci.org/Unicamp-OpenPower/releases-build"><img src="https://travis-ci.org/Unicamp-OpenPower/terraform-releases.png"></a>
+Terraform Release | <a href="https://travis-ci.org/Unicamp-OpenPower/terraform-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/terraform-releases.png"></a>
