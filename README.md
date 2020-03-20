@@ -9,7 +9,7 @@ Docker CE Release | <a href="http://minicloud.parqtec.unicamp.br:60000/job/docke
 Glide Build | <a href="https://travis-ci.org/Unicamp-OpenPower/glide-build"><img src="https://travis-ci.org/Unicamp-OpenPower/glide-build.png"></a>
 Glide Release | <a href="https://travis-ci.org/Unicamp-OpenPower/glide-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/glide-releases.png"></a>
 Grafana Build | <a href="https://travis-ci.org/Unicamp-OpenPower/grafana-build"><img src="https://travis-ci.org/Unicamp-OpenPower/grafana-build.png"></a>
-Grafana Release | <a href="https://travis-ci.org/Unicamp-OpenPower/grafana-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/grafana-releases.png"></a>
+Grafana Release | <a href="http://minicloud.parqtec.unicamp.br:60000/job/grafana-releases"><img src="http://minicloud.parqtec.unicamp.br:60000/job/grafana-releases/badge/icon?"></a>
 Kiali Build | <a href="https://travis-ci.org/Unicamp-OpenPower/kiali-build"><img src="https://travis-ci.org/Unicamp-OpenPower/kiali-build.png"></a>
 Kiali Release | <a href="https://travis-ci.org/Unicamp-OpenPower/kiali-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/kiali-releases.png"></a>
 Matchbox Build | <a href="https://travis-ci.org/Unicamp-OpenPower/matchbox-builds"><img src="https://travis-ci.org/Unicamp-OpenPower/matchbox-builds.png"></a>
