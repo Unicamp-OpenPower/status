@@ -2,7 +2,7 @@ Project | Status
 ------------ | -------------
 Bazel Build| <a href="http://minicloud.parqtec.unicamp.br:60000/job/bazel-build"><img src="http://minicloud.parqtec.unicamp.br:60000/job/bazel-build/badge/icon?"></a>
 Bazel Release | <a href="https://travis-ci.org/Unicamp-OpenPower/bazel-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/bazel-releases.png"></a>
-Containerd Build| <a href="https://travis-ci.org/Unicamp-OpenPower/containerd-build"><img src="https://travis-ci.org/Unicamp-OpenPower/containerd-build.png"></a>
+Containerd Build| <a href="http://minicloud.parqtec.unicamp.br:60000/job/containerd-build"><img src="http://minicloud.parqtec.unicamp.br:60000/job/containerd-build/badge/icon?"></a>
 Containerd Release| <a href="https://travis-ci.org/Unicamp-OpenPower/containerd-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/containerd-releases.png"></a>
 Docker CE Build | <a href="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-build/"><img src="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-build/badge/icon?"></a>
 Docker CE Release | <a href="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-releases/"><img src="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-releases/badge/icon?"></a>
