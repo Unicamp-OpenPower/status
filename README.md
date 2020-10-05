@@ -14,6 +14,12 @@ Grafana Build | <a href="http://minicloud.parqtec.unicamp.br:60000/job/grafana-b
 Grafana Release | <a href="http://minicloud.parqtec.unicamp.br:60000/job/grafana-releases"><img src="http://minicloud.parqtec.unicamp.br:60000/job/grafana-releases/badge/icon?"></a>
 Kiali Build | <a href="https://travis-ci.org/Unicamp-OpenPower/kiali-build"><img src="https://travis-ci.org/Unicamp-OpenPower/kiali-build.png"></a>
 Kiali Release | <a href="https://travis-ci.org/Unicamp-OpenPower/kiali-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/kiali-releases.png"></a>
+Kubeadm Build | <a href="https://travis-ci.org/Unicamp-OpenPower/kubeadm-build"><img src="https://travis-ci.org/Unicamp-OpenPower/kubeadm-build.png"></a>
+Kubeadm Release | <a href="https://travis-ci.org/Unicamp-OpenPower/kubeadm-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/kubeadm-releases.png"></a>
+Kubectl Build | <a href="https://travis-ci.org/Unicamp-OpenPower/kubectl-build"><img src="https://travis-ci.org/Unicamp-OpenPower/kubectl-build.png"></a>
+Kubectl Release | <a href="https://travis-ci.org/Unicamp-OpenPower/kubectl-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/kubectl-releases.png"></a>
+Kubelet Build | <a href="https://travis-ci.org/Unicamp-OpenPower/kubelet-build"><img src="https://travis-ci.org/Unicamp-OpenPower/kubelet-build.png"></a>
+Kubelet Release | <a href="https://travis-ci.org/Unicamp-OpenPower/kubelet-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/kubelet-releases.png"></a>
 Matchbox Build | <a href="https://travis-ci.org/Unicamp-OpenPower/matchbox-builds"><img src="https://travis-ci.org/Unicamp-OpenPower/matchbox-builds.png"></a>
 Matchbox Release | <a href="https://travis-ci.org/Unicamp-OpenPower/matchbox-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/matchbox-releases.png"></a>
 Minikube Build | <a href="https://travis-ci.org/Unicamp-OpenPower/minikube-build"><img src="https://travis-ci.org/Unicamp-OpenPower/minikube-build.png"></a>
