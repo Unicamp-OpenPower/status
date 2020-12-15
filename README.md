@@ -6,6 +6,7 @@ Containerd Build| <a href="https://travis-ci.org/Unicamp-OpenPower/containerd-bu
 Containerd Release| <a href="https://travis-ci.org/Unicamp-OpenPower/containerd-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/containerd-releases.png"></a>
 Containerd-CRI Build| <a href="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-build"><img src="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-build/badge/icon?"></a>
 Containerd-CRI Release| <a href="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-release"><img src="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-release/badge/icon?"></a>
+Crun Build | <a href="https://travis-ci.org/Unicamp-OpenPower/crun-build"><img src="https://travis-ci.org/Unicamp-OpenPower/crun-build.png"></a>
 Docker CE Build | <a href="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-build/"><img src="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-build/badge/icon?"></a>
 Docker CE Release | <a href="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-releases/"><img src="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-releases/badge/icon?"></a>
 Glide Build | <a href="https://travis-ci.org/Unicamp-OpenPower/glide-build"><img src="https://travis-ci.org/Unicamp-OpenPower/glide-build.png"></a>
@@ -34,3 +35,4 @@ Restic Build | <a href="https://travis-ci.org/Unicamp-OpenPower/restic-build"><i
 Restic Release | <a href="https://travis-ci.org/Unicamp-OpenPower/restic-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/restic-releases.png"></a>
 Terraform Build | <a href="https://travis-ci.org/Unicamp-OpenPower/terraform-build"><img src="https://travis-ci.org/Unicamp-OpenPower/terraform-build.png"></a>
 Terraform Release | <a href="https://travis-ci.org/Unicamp-OpenPower/terraform-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/terraform-releases.png"></a>
+Package Tests | <a href="https://travis-ci.org/Unicamp-OpenPower/package-test"><img src="https://travis-ci.org/Unicamp-OpenPower/package-test.png"></a>
