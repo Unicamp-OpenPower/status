@@ -2,11 +2,16 @@ Project | Status
 ------------ | -------------
 Bazel Build| <a href="http://minicloud.parqtec.unicamp.br:60000/job/bazel-build"><img src="http://minicloud.parqtec.unicamp.br:60000/job/bazel-build/badge/icon?"></a>
 Bazel Release | <a href="https://travis-ci.org/Unicamp-OpenPower/bazel-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/bazel-releases.png"></a>
+Conmon Build| <a href="https://travis-ci.org/Unicamp-OpenPower/conmon-build"><img src="https://travis-ci.org/Unicamp-OpenPower/conmon-build.png"></a>
+Conmon Release| <a href="https://travis-ci.org/Unicamp-OpenPower/conmon-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/conmon-releases.png"></a>
 Containerd Build| <a href="https://travis-ci.org/Unicamp-OpenPower/containerd-build"><img src="https://travis-ci.org/Unicamp-OpenPower/containerd-build.png"></a>
 Containerd Release| <a href="https://travis-ci.org/Unicamp-OpenPower/containerd-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/containerd-releases.png"></a>
 Containerd-CRI Build| <a href="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-build"><img src="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-build/badge/icon?"></a>
 Containerd-CRI Release| <a href="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-release"><img src="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-release/badge/icon?"></a>
+Crio Build | <a href="https://travis-ci.org/Unicamp-OpenPower/crio-build"><img src="https://travis-ci.org/Unicamp-OpenPower/crio-build.png"></a>
+Crio Release | <a href="https://travis-ci.org/Unicamp-OpenPower/crio-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/crio-releases.png"></a>
 Crun Build | <a href="https://travis-ci.org/Unicamp-OpenPower/crun-build"><img src="https://travis-ci.org/Unicamp-OpenPower/crun-build.png"></a>
+Crun Release | <a href="https://travis-ci.org/Unicamp-OpenPower/crun-releases"><img src="https://travis-ci.org/Unicamp-OpenPower/crun-releases.png"></a>
 Docker CE Build | <a href="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-build/"><img src="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-build/badge/icon?"></a>
 Docker CE Release | <a href="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-releases/"><img src="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-releases/badge/icon?"></a>
 Glide Build | <a href="https://travis-ci.org/Unicamp-OpenPower/glide-build"><img src="https://travis-ci.org/Unicamp-OpenPower/glide-build.png"></a>
