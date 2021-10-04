@@ -1,7 +1,7 @@
 Project | Status
 ------------ | -------------
 Bazel Build| <a href="http://minicloud.parqtec.unicamp.br:60000/job/bazel-build"><img src="http://minicloud.parqtec.unicamp.br:60000/job/bazel-build/badge/icon?"></a>
-Bazel Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/bazel-releases"><img src="https://app.travis-ci.com/github/Unicamp-OpenPower/bazel-releases.png"></a>
+Bazel Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/bazel-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/bazel-releases.svg?branch=master"></a>
 Conmon Build| <a href="https://travis-ci.com/Unicamp-OpenPower/conmon-build"><img src="https://travis-ci.com/Unicamp-OpenPower/conmon-build.png"></a>
 Conmon Release| <a href="https://travis-ci.com/Unicamp-OpenPower/conmon-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/conmon-releases.png"></a>
 Containerd Build| <a href="https://travis-ci.com/Unicamp-OpenPower/containerd-build"><img src="https://travis-ci.com/Unicamp-OpenPower/containerd-build.png"></a>
