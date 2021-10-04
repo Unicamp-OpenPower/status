@@ -39,7 +39,7 @@ Minio-MC Release | <a href="https://travis-ci.com/Unicamp-OpenPower/minio-mc-rel
 RClone Build | <a href="https://travis-ci.com/Unicamp-OpenPower/rclone-build"><img src="https://travis-ci.com/Unicamp-OpenPower/rclone-build.png"></a>
 RClone Release | <a href="https://travis-ci.com/Unicamp-OpenPower/rclone-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/rclone-releases.png"></a>
 Restic Build | <a href="https://travis-ci.com/Unicamp-OpenPower/restic-build"><img src="https://travis-ci.com/Unicamp-OpenPower/restic-build.png"></a>
-Restic Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/restic-releases"><img src="https://app.travis-ci.com/github/Unicamp-OpenPower/restic-releases.svg?branch=master"></a>
+Restic Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/restic-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/restic-releases.svg?token=Tyii1MpzYjhv5qLLQWj5&branch=master"></a>
 Terraform Build | <a href="https://travis-ci.com/Unicamp-OpenPower/terraform-build"><img src="https://travis-ci.com/Unicamp-OpenPower/terraform-build.png"></a>
 Terraform Release | <a href="https://travis-ci.com/Unicamp-OpenPower/terraform-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/terraform-releases.png"></a>
 Package Tests | <a href="https://travis-ci.com/Unicamp-OpenPower/package-test"><img src="https://travis-ci.com/Unicamp-OpenPower/package-test.png"></a>
