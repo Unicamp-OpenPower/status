@@ -2,30 +2,30 @@ Project | Status
 ------------ | -------------
 Bazel Build| <a href="http://minicloud.parqtec.unicamp.br:60000/job/bazel-build"><img src="http://minicloud.parqtec.unicamp.br:60000/job/bazel-build/badge/icon?"></a>
 Bazel Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/bazel-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/bazel-releases.svg?branch=master"></a>
-Conmon Build| <a href="https://travis-ci.com/Unicamp-OpenPower/conmon-build"><img src="https://travis-ci.com/Unicamp-OpenPower/conmon-build.png"></a>
-Conmon Release| <a href="https://travis-ci.com/Unicamp-OpenPower/conmon-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/conmon-releases.png"></a>
-Containerd Build| <a href="https://travis-ci.com/Unicamp-OpenPower/containerd-build"><img src="https://travis-ci.com/Unicamp-OpenPower/containerd-build.png"></a>
-Containerd Release| <a href="https://travis-ci.com/Unicamp-OpenPower/containerd-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/containerd-releases.png"></a>
+Conmon Build| <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/conmon-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/conmon-build.svg?branch=main"></a>
+Conmon Release| <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/conmon-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/conmon-releases.svg?branch=main"></a>
+Containerd Build| <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/containerd-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/containerd-build.svg?branch=master"></a>
+Containerd Release| <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/containerd-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/containerd-releases.svg?branch=master"></a>
 Containerd-CRI Build| <a href="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-build"><img src="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-build/badge/icon?"></a>
-Containerd-CRI Release| <a href="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-release"><img src="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-release/badge/icon?"></a>
-Crio Build | <a href="https://travis-ci.com/Unicamp-OpenPower/crio-build"><img src="https://travis-ci.com/Unicamp-OpenPower/crio-build.png"></a>
-Crio Release | <a href="https://travis-ci.com/Unicamp-OpenPower/crio-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/crio-releases.png"></a>
-Crun Build | <a href="https://travis-ci.com/Unicamp-OpenPower/crun-build"><img src="https://travis-ci.com/Unicamp-OpenPower/crun-build.png"></a>
-Crun Release | <a href="https://travis-ci.com/Unicamp-OpenPower/crun-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/crun-releases.png"></a>
+Containerd-CRI Release| <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/containerd-cri-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/containerd-cri-releases.svg?branch=master"></a>
+Crio Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/crio-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/crio-build.svg?branch=main"></a>
+Crio Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/crio-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/crio-releases.svg?branch=main"></a>
+Crun Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/crun-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/crun-build.svg?branch=main"></a>
+Crun Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/crun-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/crun-releases.svg?branch=main"></a>
 Docker CE Build | <a href="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-build/"><img src="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-build/badge/icon?"></a>
 Docker CE Release | <a href="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-releases/"><img src="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-releases/badge/icon?"></a>
-Docker Machine build | <a href="https://travis-ci.com/Unicamp-OpenPower/docker-machine-build"><img src="https://travis-ci.com/Unicamp-OpenPower/docker-machine-build.png"></a>
-Docker Machine Release | <a href="https://travis-ci.com/Unicamp-OpenPower/docker-machine-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/docker-machine-releases.png"></a>
-Glide Build | <a href="https://travis-ci.com/Unicamp-OpenPower/glide-build"><img src="https://travis-ci.com/Unicamp-OpenPower/glide-build.png"></a>
-Glide Release | <a href="https://travis-ci.com/Unicamp-OpenPower/glide-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/glide-releases.png"></a>
+Docker Machine Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/docker-ce-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/docker-machine-build.svg?branch=main"></a>
+Docker Machine Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/docker-machine-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/docker-machine-releases.svg?branch=main"></a>
+Glide Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/glide-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/glide-build.svg?branch=master"></a>
+Glide Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/glide-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/glide-releases.svg?branch=master"></a>
 Grafana Build | <a href="http://minicloud.parqtec.unicamp.br:60000/job/grafana-build"><img src="http://minicloud.parqtec.unicamp.br:60000/job/grafana-build/badge/icon?"></a>
 Grafana Release | <a href="http://minicloud.parqtec.unicamp.br:60000/job/grafana-releases"><img src="http://minicloud.parqtec.unicamp.br:60000/job/grafana-releases/badge/icon?"></a>
-Kiali Build | <a href="https://travis-ci.com/Unicamp-OpenPower/kiali-build"><img src="https://travis-ci.com/Unicamp-OpenPower/kiali-build.png"></a>
-Kiali Release | <a href="https://travis-ci.com/Unicamp-OpenPower/kiali-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/kiali-releases.png"></a>
-Kubeadm Build | <a href="https://travis-ci.com/Unicamp-OpenPower/kubeadm-build"><img src="https://travis-ci.com/Unicamp-OpenPower/kubeadm-build.png"></a>
-Kubeadm Release | <a href="https://travis-ci.com/Unicamp-OpenPower/kubeadm-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/kubeadm-releases.png"></a>
-Kubectl Build | <a href="https://travis-ci.com/Unicamp-OpenPower/kubectl-build"><img src="https://travis-ci.com/Unicamp-OpenPower/kubectl-build.png"></a>
-Kubectl Release | <a href="https://travis-ci.com/Unicamp-OpenPower/kubectl-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/kubectl-releases.png"></a>
+Kiali Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kiali-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kiali-build.svg?branch=master"></a>
+Kiali Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kiali-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kiali-releases.svg?branch=master"></a>
+Kubeadm Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kubeadm-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kubeadm-build.svg?branch=master"></a>
+Kubeadm Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kubeadm-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kubeadm-releases.svg?branch=master"></a>
+Kubectl Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kubectl-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kubectl-build.svg?branch=master"></a>
+Kubectl Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kubectl-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kubectl-build.svg?branch=master"></a>
 Kubelet Build | <a href="https://travis-ci.com/Unicamp-OpenPower/kubelet-build"><img src="https://travis-ci.com/Unicamp-OpenPower/kubelet-build.png"></a>
 Kubelet Release | <a href="https://travis-ci.com/Unicamp-OpenPower/kubelet-releases"><img src="https://travis-ci.com/Unicamp-OpenPower/kubelet-releases.png"></a>
 Matchbox Build | <a href="https://travis-ci.com/Unicamp-OpenPower/matchbox-builds"><img src="https://travis-ci.com/Unicamp-OpenPower/matchbox-builds.png"></a>
