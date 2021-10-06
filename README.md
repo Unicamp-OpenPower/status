@@ -14,7 +14,7 @@ Crun Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/crun-bu
 Crun Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/crun-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/crun-releases.svg?branch=main"></a>
 Docker CE Build | <a href="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-build/"><img src="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-build/badge/icon?"></a>
 Docker CE Release | <a href="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-releases/"><img src="http://minicloud.parqtec.unicamp.br:60000/job/docker-ce-releases/badge/icon?"></a>
-Docker Machine Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/docker-ce-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/docker-machine-build.svg?branch=main"></a>
+Docker Machine Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/docker-machine-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/docker-machine-build.svg?branch=main"></a>
 Docker Machine Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/docker-machine-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/docker-machine-releases.svg?branch=main"></a>
 Glide Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/glide-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/glide-build.svg?branch=master"></a>
 Glide Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/glide-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/glide-releases.svg?branch=master"></a>
