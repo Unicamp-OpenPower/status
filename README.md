@@ -25,7 +25,7 @@ Kiali Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kial
 Kubeadm Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kubeadm-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kubeadm-build.svg?branch=master"></a>
 Kubeadm Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kubeadm-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kubeadm-releases.svg?branch=master"></a>
 Kubectl Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kubectl-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kubectl-build.svg?branch=master"></a>
-Kubectl Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kubectl-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kubectl-release.svg?branch=master"></a>
+Kubectl Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kubectl-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kubectl-releases.svg?branch=master"></a>
 Kubelet Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kubelet-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kubelet-build.svg?branch=main"></a>
 Kubelet Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/kubelet-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/kubelet-releases.svg?branch=main"></a>
 Matchbox Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/matchbox-builds"><img src="https://app.travis-ci.com/Unicamp-OpenPower/matchbox-builds.svg?branch=master"></a>
