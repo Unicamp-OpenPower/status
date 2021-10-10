@@ -7,7 +7,7 @@ Conmon Release| <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/conm
 Containerd Build| <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/containerd-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/containerd-build.svg?branch=master"></a>
 Containerd Release| <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/containerd-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/containerd-releases.svg?branch=master"></a>
 Containerd-CRI Build| <a href="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-build"><img src="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-build/badge/icon?"></a>
-Containerd-CRI Release| <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/containerd-cri-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/containerd-cri-releases.svg?branch=master"></a>
+Containerd-CRI Release| <a href="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-release/"><img src="http://minicloud.parqtec.unicamp.br:60000/job/containerd-cri-release/badge/icon?"></a>
 Crio Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/crio-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/crio-build.svg?branch=main"></a>
 Crio Release | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/crio-releases"><img src="https://app.travis-ci.com/Unicamp-OpenPower/crio-releases.svg?branch=main"></a>
 Crun Build | <a href="https://app.travis-ci.com/github/Unicamp-OpenPower/crun-build"><img src="https://app.travis-ci.com/Unicamp-OpenPower/crun-build.svg?branch=main"></a>
